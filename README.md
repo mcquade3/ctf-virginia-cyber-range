@@ -49,6 +49,7 @@ Opened `lookup.pcap` file in Wireshark. Used filter `eth.src == 00:50:56:ed:c2:e
 ### Port: 02471(8)
 
 Asked ChatGPT to decode IP and Port numbers
+
 ![ChatGPT](assets/2026-06-14-10-58-54-image.png)
 
 ![ChatGPT](assets/2026-06-14-10-58-37-image.png)Used `netcat` to connect to server
